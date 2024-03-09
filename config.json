@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "botgoat8@gmail.com",
-    "password": "",
+    "email": "ceyilax560@konican.com",
+    "password": "Arjun7dt",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -19,17 +19,17 @@
     ]
   },
   "adminBot": [
-    "100042711173378",
-    "100042408666316",
-    "100053257441926"
+    "100085819501470",
+    "",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "S K Y 🕊️",
-  "prefix": "+",
+  "nickNameBot": "LAPIS 💬",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
